@@ -1,0 +1,12 @@
+<php
+
+
+	function nome()
+	{
+		echo "bla bla bla";
+	}
+
+	function nome2()
+	{
+		echo "bla bla bla";
+	}
